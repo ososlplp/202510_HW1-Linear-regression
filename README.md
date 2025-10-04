@@ -2,8 +2,6 @@
 
 一個基於 [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) 流程建構的線性回歸應用，使用者可即時調整資料參數，觀察模型擬合行為。此應用使用 Python + Streamlit 開發，並已部署至 Web 平台供互動使用。
 
-👉 [立即體驗](https://aiotda.streamlit.app)｜[GitHub Repo](https://github.com/huanchen1107/20250920_AutoDeployLR)
-
 ---
 
 ## 📌 專案目標（Business Understanding）
