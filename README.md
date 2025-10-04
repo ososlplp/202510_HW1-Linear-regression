@@ -49,7 +49,7 @@ y = ax + b + \text{noise}
 
 本應用已部署至 **Streamlit Cloud** 平台：
 
-▶️ [線上使用網址]([https://5114056018hw1.streamlit.app/])
+▶️ [線上使用網址]([https://5114056018hw1.streamlit.app])
 
 本機測試：
 
